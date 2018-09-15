@@ -3,3 +3,6 @@ This is initial commit in master
 This is second commit in master
 
 This is Third commit in master
+This is initial commit in new Branch
+
+This is second commit in new branch
