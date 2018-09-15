@@ -16,3 +16,5 @@ This is third commit in rebase branch
 This is fourth commit in rebase branch
 
 This is fifth commit in rebase branch
+
+This is sixth commit in rebase branch
