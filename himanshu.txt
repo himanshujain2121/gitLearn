@@ -8,3 +8,5 @@ This is initial commit in new Branch
 This is second commit in new branch
 
 This is first commit in rebase branch
+
+This is second commit in rebase branch
