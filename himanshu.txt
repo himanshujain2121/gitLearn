@@ -12,3 +12,5 @@ This is first commit in rebase branch
 This is second commit in rebase branch
 
 This is third commit in rebase branch
+
+This is fourth commit in rebase branch
